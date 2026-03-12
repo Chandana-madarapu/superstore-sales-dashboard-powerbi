@@ -23,4 +23,4 @@ The dashboard provides insights into sales trends, regional performance, product
 SuperStore Sales Dataset
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard.png)
